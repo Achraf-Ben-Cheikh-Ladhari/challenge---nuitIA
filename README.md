@@ -31,6 +31,10 @@
 ![Screenshot 2024-03-31 021306](https://github.com/Achraf-Ben-Cheikh-Ladhari/challenge---nuitIA/assets/139220372/69997746-d26f-43a9-8a43-aa38f4283860)
 
 8- Deployment in a website:
+![Screenshot from 2024-03-31 03-10-55](https://github.com/Achraf-Ben-Cheikh-Ladhari/challenge---nuitIA/assets/94150092/ffff3b6d-7acf-4175-aa20-52338f742d50)
+![Screenshot from 2024-03-31 03-11-01](https://github.com/Achraf-Ben-Cheikh-Ladhari/challenge---nuitIA/assets/94150092/dae638c8-c536-4d53-b731-8ec7e34a0e06)
+![Screenshot from 2024-03-31 03-11-13](https://github.com/Achraf-Ben-Cheikh-Ladhari/challenge---nuitIA/assets/94150092/e53eff01-71ce-420e-a06b-88ee157f2756)
+
 
 
 
